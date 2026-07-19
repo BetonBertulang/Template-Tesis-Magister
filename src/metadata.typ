@@ -10,8 +10,8 @@
 UNTUK PENULISAN TESIS MAGISTER ITB"
 #let englishTitle = "A GUIDE TO USING TYPST
 FOR WRITING AN ITB MASTER'S THESIS"
-#let studentName = "ARIF HERMAWAN"
-#let studentId = "25025073"
+#let studentName = "FONDASI"
+#let studentId = "2502XXXX"
 #let studyProgram = "Magister Teknik Sipil"
 #let submissionDate = "JULI 2026"
 #let signDate = "15 Juli 2026"
